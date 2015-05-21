@@ -53,6 +53,21 @@ Installing
 
 There's a setup.py
 
+It can be installed from pip by typing:
+
+  $ pip install salmon-mail
+  
+
+Configuration
+=============
+
+<TODO>
+
+Testing
+=======
+
+<TODO>
+
 Project Information
 ===================
 
